@@ -1,0 +1,27 @@
+{
+  "name": "express-02",
+  "version": "1.0.0",
+  "description": "Aprendendo rotas com express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xJoninha/express-02.git"
+  },
+  "keywords": [],
+  "author": "Jonas Francisco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xJoninha/express-02/issues"
+  },
+  "homepage": "https://github.com/xJoninha/express-02#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
